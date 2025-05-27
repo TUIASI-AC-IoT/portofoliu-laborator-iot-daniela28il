@@ -1,0 +1,1 @@
+The development of such a Web service actually involves modeling the functionality of the methods characteristic of the HTTP protocol [4] over the four primitives mentioned earlier. Thus, the functionality of the service will be described in terms of operations performed on the resources managed by such an application.

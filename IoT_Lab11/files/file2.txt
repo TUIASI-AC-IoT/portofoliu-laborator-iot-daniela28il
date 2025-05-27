@@ -1,0 +1,1 @@
+Delete the resource (or a representation of it) should be deleted when it becomes inactive.
